@@ -54,7 +54,7 @@ nav.nav-top img {
 nav.nav-main{
     position: sticky;
     top: 0;
-    font-family: "DynaPuff, cursive";
+    font-family: "DynaPuff", cursive;
 }
 .nav-main a:hover {
     color: white;
